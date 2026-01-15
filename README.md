@@ -9,7 +9,7 @@
     <a href="hxxps://klausenbusk.github.io/flathub-stats/#ref=rocks.shy.VacuumTube&interval=infinity&downloadType=installs%2Bupdates">
       <img alt="Flathub Downloads" title="Flathub Downloads" src="hxxps://img.shields.io/badge/dynamic/json?color=informational&label=Downloads&logo=flathub&logoColor=white&query=%24.installs_total&url=https%3A%2F%2Fflathub.org%2Fapi%2Fv2%2Fstats%2Frocks.shy.VacuumTube">
     </a>
-    <a href="https://github.com/TBNRBERRY/VacuumTube/blob/main/LICENSE">
+    <a href="https://github.com/TBNRBERRY/PixelTube/blob/master/LICENSE">
       <img alt="License" title="License" src="https://img.shields.io/github/license/TBNRBERRY/PixelTube?label=%F0%9F%93%9C%20License" />
     </a>
 </p>
