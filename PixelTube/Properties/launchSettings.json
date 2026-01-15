@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PixelTube (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PixelTube (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
